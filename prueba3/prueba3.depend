@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1360950828 source:c:\users\cesar\dropbox\escuela\archivos\archivos\prueba3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+

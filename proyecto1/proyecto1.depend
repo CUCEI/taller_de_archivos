@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1363632523 source:c:\users\cesar\dropbox\escuela\archivos\archivos\proyecto1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<fcntl.h>
+	<string.h>
+

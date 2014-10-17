@@ -1,0 +1,5 @@
+CONTINENTAL         mexico|alemania|holanda|Adaptive cruise control#Blind spot detection#Emergency brake assist#Intelligent headlamp control#Lane departure warning#and Speed limit onitoring systems#
+DENSO               noruega|argentina||Image recognition#drowsiness monitoring and driver assistance systems#its image recognition uses an in-vehicle camera to identify signs and other objects on or near the road#
+MGM                 mexico|japon||sistema de suspensiones de alta resistencia#
+TRW                 irlanda|||Driver assistance systems include adaptive cruise control (with stop-and-go functionality)#lane keeping / departure warning systems#parking assistance; and collision warning#
+adt                 mexico|estados unidos||electronic brake-control systems such as ABS#TCS and ESP sensors (e.g. wheel-speed, steering-angle)#and yaw-rate sensors) electronics for occupant and pedestrian safety (e.g. airbag control unit and crash sensors) networked system solutions for safety (CAPS - Combined Active and Passive Safety) and agility (VDM - Vehicle Dynamics Management)#

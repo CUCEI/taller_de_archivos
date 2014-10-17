@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1367603667 source:c:\users\r12\desktop\proyecto2\proyecto2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<fcntl.h>
+	<string.h>
+
+1368208916 source:f:\archivos\proyecto2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<fcntl.h>
+	<string.h>
+	"arboles.h"
+
+1368207486 f:\archivos\proyecto2\arboles.h
+	<conio.h>
+
+1369388273 source:c:\users\cesar\dropbox\escuela\archivos\archivos\proyecto2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<fcntl.h>
+	<string.h>
+	"arboles.h"
+	"arbolesInv.h"
+
+1368211086 c:\users\cesar\dropbox\escuela\archivos\archivos\proyecto2\arboles.h
+	<conio.h>
+
+1369388360 c:\users\cesar\dropbox\escuela\archivos\archivos\proyecto2\arbolesinv.h
+

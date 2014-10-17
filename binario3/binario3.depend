@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1367476398 source:c:\users\cesar\dropbox\escuela\archivos\archivos\binario3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<fcntl.h>
+	<string.h>
+

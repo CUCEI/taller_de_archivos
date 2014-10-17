@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1366998814 source:f:\archivos\binario2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<fcntl.h>
+

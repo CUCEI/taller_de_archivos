@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1360344689 source:c:\users\r12\desktop\practica 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+

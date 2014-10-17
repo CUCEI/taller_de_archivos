@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1366391730 source:l:\archivos\binario#\main.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<fcntl.h>
+
+1365792574 source:c:\users\cesar\dropbox\escuela\archivos\archivos\binario#\main.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<fcntl.h>
+
